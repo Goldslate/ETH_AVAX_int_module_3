@@ -45,7 +45,7 @@ npx harhdat run scripts/<filename>.ts --network localhost
 
 ### Authors
 
-Parth Verma
+Gaurav Gupta
 
 ### License
 
